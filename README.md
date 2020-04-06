@@ -1,7 +1,9 @@
 A Technical Documentation page
 
-Some basics of Java and JavaScript languages in theory:https://njerimwangi-rgb.github.io/Technical-Documentation-Page/
+See some basics of Java and JavaScript languages in theory in the following URL:
 
-This is one of my freecodecamp.org projects.
+https://njerimwangi-rgb.github.io/Technical-Documentation-Page/
+
+This is one of my www.freecodecamp.org projects.
 
 Enjoy!
